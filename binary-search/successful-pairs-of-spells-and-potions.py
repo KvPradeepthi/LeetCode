@@ -1,5 +1,3 @@
-from bisect import bisect_left
-
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
         potions.sort()
@@ -7,12 +5,13 @@ class Solution:
         res = []
         
         for spell in spells:
-           
-            min_needed = (success + spell - 1) // spell  # ceil division
-            
-           
-            idx = bisect_left(potions, min_needed)
-            
-            res.append(m - idx)
+            left, right = 0, m - 1
+            while left <= right:
+                mid = (left + right) // 2
+                if spell * potions[mid] >= success:
+                    right = mid - 1
+                else:
+                    left = mid + 1
+            res.append(m - left)
         
         return res
