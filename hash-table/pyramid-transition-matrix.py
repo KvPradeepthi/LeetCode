@@ -1,13 +1,18 @@
 from typing import List
 from collections import defaultdict
+
 class Solution:
     def pyramidTransition(self, bottom: str, allowed: List[str]) -> bool:
         mp = defaultdict(list)
-
         for a, b, c in allowed:
             mp[(a, b)].append(c)
 
+        memo = {}  # cache results for rows
+
         def dfs(curr):
+            if curr in memo:
+                return memo[curr]
+
             if len(curr) == 1:
                 return True
 
@@ -15,10 +20,11 @@ class Solution:
                 if i == len(curr) - 1:
                     return dfs("".join(path))
 
-                if (curr[i], curr[i+1]) not in mp:
+                key = (curr[i], curr[i + 1])
+                if key not in mp:
                     return False
 
-                for ch in mp[(curr[i], curr[i+1])]:
+                for ch in mp[key]:
                     path.append(ch)
                     if backtrack(i + 1, path):
                         return True
@@ -26,6 +32,7 @@ class Solution:
 
                 return False
 
-            return backtrack(0, [])
+            memo[curr] = backtrack(0, [])
+            return memo[curr]
 
         return dfs(bottom)
