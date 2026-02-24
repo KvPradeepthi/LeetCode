@@ -1,15 +1,16 @@
 class Solution:
-    def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        n=len(nums)
-        sum=[0]*n
-        for i in range(0,n):
-            sum[i]+=sum[i-1]+nums[i]
-            if sum[i]==0:
-                return True
-                break
-            if sum[i]%k==0:
-                return True
-                break
-        return False
-          
+    def checkSubarraySum(self, nums, k):
+        remainder_map = {0: -1}
+        prefix_sum = 0
         
+        for i in range(len(nums)):
+            prefix_sum += nums[i]
+            remainder = prefix_sum % k
+            
+            if remainder in remainder_map:
+                if i - remainder_map[remainder] > 1:
+                    return True
+            else:
+                remainder_map[remainder] = i
+        
+        return False
