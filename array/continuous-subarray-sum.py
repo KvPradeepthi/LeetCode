@@ -4,6 +4,9 @@ class Solution:
         sum=0
         for i in range(0,n):
             sum+=nums[i]
+            if sum==0:
+                return True
+                break
             if sum%k==0:
                 return True
                 break
