@@ -9,5 +9,6 @@ class Solution:
             if rem in rem_map:
                 if i-rem_map[rem]>1:
                     return True
-            rem_map[rem]=i
+            else:
+                rem_map[rem]=i
         return False
