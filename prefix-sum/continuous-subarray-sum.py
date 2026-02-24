@@ -1,16 +1,13 @@
 class Solution:
     def checkSubarraySum(self, nums, k):
-        remainder_map = {0: -1}
-        prefix_sum = 0
-        
-        for i in range(len(nums)):
-            prefix_sum += nums[i]
-            remainder = prefix_sum % k
-            
-            if remainder in remainder_map:
-                if i - remainder_map[remainder] > 1:
+        n=len(nums)
+        rem_map={0:-1}
+        p_sum=0
+        for i in range(0,n):
+            p_sum+=nums[i]
+            rem=p_sum%k
+            if rem in rem_map:
+                if i-rem_map[rem]>1:
                     return True
-            else:
-                remainder_map[remainder] = i
-        
+            rem_map[rem]=i
         return False
