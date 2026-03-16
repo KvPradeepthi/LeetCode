@@ -1,36 +1,39 @@
 class Solution:
     def getBiggestThree(self, grid):
-        m = len(grid)
-        n = len(grid[0])
-        
-        rhombus_sums = set()
-        
+        m, n = len(grid), len(grid[0])
+        res = set()
+
         for r in range(m):
             for c in range(n):
                 
-                # size 0 rhombus (single cell)
-                rhombus_sums.add(grid[r][c])
-                
+                # size 0 rhombus
+                res.add(grid[r][c])
+
                 size = 1
-                while r + 2*size < m and c - size >= 0 and c + size < n:
-                    
-                    total = 0
-                    
-                    # traverse edges
-                    for i in range(size):
-                        total += grid[r+i][c+i]           # top -> right
-                        total += grid[r+i][c-i]           # top -> left
-                        total += grid[r+size+i][c+size-i] # right -> bottom
-                        total += grid[r+size+i][c-size+i] # left -> bottom
-                    
-                    # remove double counted corners
-                    total -= grid[r][c]
-                    total -= grid[r+size][c-size]
-                    total -= grid[r+size][c+size]
-                    total -= grid[r+2*size][c]
-                    
-                    rhombus_sums.add(total)
-                    
+                while r - size >= 0 and r + size < m and c - size >= 0 and c + size < n:
+                    s = 0
+
+                    # top -> right
+                    i, j = r - size, c
+                    for k in range(size):
+                        s += grid[i + k][j + k]
+
+                    # right -> bottom
+                    i, j = r, c + size
+                    for k in range(size):
+                        s += grid[i + k][j - k]
+
+                    # bottom -> left
+                    i, j = r + size, c
+                    for k in range(size):
+                        s += grid[i - k][j - k]
+
+                    # left -> top
+                    i, j = r, c - size
+                    for k in range(size):
+                        s += grid[i - k][j + k]
+
+                    res.add(s)
                     size += 1
-        
-        return sorted(rhombus_sums, reverse=True)[:3]
+
+        return sorted(res, reverse=True)[:3]
