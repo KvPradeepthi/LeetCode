@@ -10,6 +10,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,16 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/3110-score-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Sorting
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Matrix
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
