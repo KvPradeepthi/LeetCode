@@ -11,6 +11,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,4 +36,9 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
