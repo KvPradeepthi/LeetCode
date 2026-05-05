@@ -4,8 +4,10 @@ class Solution:
         low,high=0,n-1
         while low<=high:
             mid=(low+high)//2
-            if nums[mid]==target:
+            if nums[mid]==target and n>1:
                 return mid,mid+1
+            if nums[mid]==target and n==1:
+                return mid,mid
             elif nums[mid]<target:
                 low=low+1
             elif nums[mid]>target:
