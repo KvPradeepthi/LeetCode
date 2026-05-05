@@ -9,6 +9,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/KvPradeepthi/LeetCode/tree/master/0704-binary-search) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -48,5 +49,6 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/KvPradeepthi/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
