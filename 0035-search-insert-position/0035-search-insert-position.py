@@ -6,11 +6,10 @@ class Solution:
             mid=(low+high)//2
             if nums[mid]==target:
                 return mid
-            elif nums[mid]>target:
-                high=high-1
             elif nums[mid]<target:
                 low=low+1
+            elif nums[mid]>target:
+                high=high-1
         return low
-      
         
-        
+       
