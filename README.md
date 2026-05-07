@@ -9,6 +9,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KvPradeepthi/LeetCode/tree/master/0035-search-insert-position) |
@@ -65,4 +66,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
