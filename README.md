@@ -10,6 +10,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KvPradeepthi/LeetCode/tree/master/0035-search-insert-position) |
@@ -40,6 +41,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KvPradeepthi/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -65,6 +67,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
