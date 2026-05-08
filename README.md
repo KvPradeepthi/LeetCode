@@ -33,6 +33,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3110-score-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
@@ -73,4 +74,9 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
