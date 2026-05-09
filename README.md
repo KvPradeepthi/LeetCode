@@ -76,11 +76,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KvPradeepthi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KvPradeepthi/LeetCode/tree/master/0231-power-of-two) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Memoization
