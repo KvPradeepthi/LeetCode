@@ -93,6 +93,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KvPradeepthi/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KvPradeepthi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
@@ -118,5 +119,6 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KvPradeepthi/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KvPradeepthi/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
