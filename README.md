@@ -15,6 +15,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KvPradeepthi/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/KvPradeepthi/LeetCode/tree/master/0198-house-robber) |
@@ -118,6 +119,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KvPradeepthi/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
