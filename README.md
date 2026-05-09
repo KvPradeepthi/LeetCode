@@ -45,6 +45,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/KvPradeepthi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3110-score-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/3110-score-of-a-string) |
@@ -136,4 +137,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KvPradeepthi/LeetCode/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KvPradeepthi/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
