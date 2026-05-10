@@ -1,0 +1,17 @@
+class Solution:
+    def longestWord(self, words: List[str]) -> str:
+        words.sort()
+        valid = set([""])
+
+        answer = ""
+
+        for word in words:
+
+            if word[:-1] in valid:
+
+                valid.add(word)
+
+                if len(word) > len(answer):
+                    answer = word
+
+        return answer
