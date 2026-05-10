@@ -15,6 +15,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KvPradeepthi/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KvPradeepthi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -144,6 +145,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KvPradeepthi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KvPradeepthi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/KvPradeepthi/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
@@ -153,5 +155,6 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KvPradeepthi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
