@@ -26,6 +26,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0204-count-primes](https://github.com/KvPradeepthi/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0213-house-robber-ii) |
 | [0503-next-greater-element-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/KvPradeepthi/LeetCode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
@@ -64,11 +65,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KvPradeepthi/LeetCode/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KvPradeepthi/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -105,6 +108,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
@@ -176,4 +180,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
