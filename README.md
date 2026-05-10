@@ -135,6 +135,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -194,4 +195,16 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
