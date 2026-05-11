@@ -32,6 +32,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/KvPradeepthi/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KvPradeepthi/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KvPradeepthi/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -215,4 +216,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/KvPradeepthi/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/KvPradeepthi/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
