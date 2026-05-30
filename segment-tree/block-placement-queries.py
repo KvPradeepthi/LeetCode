@@ -1,8 +1,11 @@
 from bisect import bisect_left, insort
 class Solution:
     def getResults(self, queries):
-        MAXX = 50000
-        tree = [0] * (4 * (MAXX + 1))
+        mx = max(q[1] for q in queries)
+
+        tree = [0] * (4 * (mx + 2))
+        obstacles = [0, mx]
+
         def update(node, l, r, idx, val):
             if l == r:
                 tree[node] = val
@@ -18,7 +21,7 @@ class Solution:
             tree[node] = max(tree[node * 2], tree[node * 2 + 1])
 
         def query(node, l, r, ql, qr):
-            if qr < l or r < ql:
+            if ql > r or qr < l:
                 return 0
 
             if ql <= l and r <= qr:
@@ -31,35 +34,32 @@ class Solution:
                 query(node * 2 + 1, mid + 1, r, ql, qr)
             )
 
-        obstacles = [0, MAXX]
-
-        update(1, 0, MAXX, MAXX, MAXX)
+        update(1, 0, mx, mx, mx)
 
         ans = []
 
         for q in queries:
-
             if q[0] == 1:
                 x = q[1]
 
-                i = bisect_left(obstacles, x)
+                pos = bisect_left(obstacles, x)
 
-                left = obstacles[i - 1]
-                right = obstacles[i]
+                left = obstacles[pos - 1]
+                right = obstacles[pos]
 
-                update(1, 0, MAXX, right, right - x)
-                update(1, 0, MAXX, x, x - left)
+                update(1, 0, mx, x, x - left)
+                update(1, 0, mx, right, right - x)
 
                 insort(obstacles, x)
 
             else:
                 _, x, sz = q
 
-                i = bisect_left(obstacles, x)
+                pos = bisect_left(obstacles, x)
 
-                best = query(1, 0, MAXX, 0, x)
+                best = query(1, 0, mx, 0, x)
 
-                left = obstacles[i - 1]
+                left = obstacles[pos - 1]
                 best = max(best, x - left)
 
                 ans.append(best >= sz)
