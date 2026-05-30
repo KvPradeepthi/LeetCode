@@ -43,6 +43,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KvPradeepthi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KvPradeepthi/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -113,6 +114,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0704-binary-search](https://github.com/KvPradeepthi/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KvPradeepthi/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/KvPradeepthi/LeetCode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3161-block-placement-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,4 +249,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
