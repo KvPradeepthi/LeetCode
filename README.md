@@ -36,6 +36,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1345-jump-game-iv](https://github.com/KvPradeepthi/LeetCode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KvPradeepthi/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/KvPradeepthi/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/KvPradeepthi/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KvPradeepthi/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -83,6 +84,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KvPradeepthi/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/KvPradeepthi/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KvPradeepthi/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/KvPradeepthi/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KvPradeepthi/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
