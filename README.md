@@ -67,6 +67,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0338-counting-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0338-counting-bits) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KvPradeepthi/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
