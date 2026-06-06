@@ -40,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KvPradeepthi/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/KvPradeepthi/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/KvPradeepthi/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KvPradeepthi/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KvPradeepthi/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KvPradeepthi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +113,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/KvPradeepthi/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Binary Search
 |  |
