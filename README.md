@@ -82,6 +82,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KvPradeepthi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/KvPradeepthi/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3110-score-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/3110-score-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
