@@ -73,6 +73,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [1504-count-submatrices-with-all-ones](https://github.com/KvPradeepthi/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1641-count-sorted-vowel-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KvPradeepthi/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
@@ -176,6 +177,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KvPradeepthi/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1641-count-sorted-vowel-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -294,4 +296,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
