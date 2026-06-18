@@ -19,6 +19,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/KvPradeepthi/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KvPradeepthi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/KvPradeepthi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/KvPradeepthi/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0042-trapping-rain-water](https://github.com/KvPradeepthi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KvPradeepthi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/KvPradeepthi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/KvPradeepthi/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0338-counting-bits) |
