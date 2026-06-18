@@ -69,6 +69,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0118-pascals-triangle](https://github.com/KvPradeepthi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/KvPradeepthi/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/KvPradeepthi/LeetCode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
@@ -174,6 +175,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KvPradeepthi/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KvPradeepthi/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/KvPradeepthi/LeetCode/tree/master/0279-perfect-squares) |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KvPradeepthi/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -189,6 +191,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/KvPradeepthi/LeetCode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/KvPradeepthi/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/KvPradeepthi/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1345-jump-game-iv](https://github.com/KvPradeepthi/LeetCode/tree/master/1345-jump-game-iv) |
