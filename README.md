@@ -171,6 +171,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KvPradeepthi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/KvPradeepthi/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KvPradeepthi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -206,6 +207,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KvPradeepthi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0191-number-of-1-bits) |
