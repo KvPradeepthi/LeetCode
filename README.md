@@ -234,6 +234,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0020-valid-parentheses](https://github.com/KvPradeepthi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KvPradeepthi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KvPradeepthi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/KvPradeepthi/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
@@ -272,6 +273,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/KvPradeepthi/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/KvPradeepthi/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -312,4 +314,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
