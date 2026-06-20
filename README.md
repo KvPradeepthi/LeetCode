@@ -64,6 +64,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/KvPradeepthi/LeetCode/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0292-nim-game](https://github.com/KvPradeepthi/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KvPradeepthi/LeetCode/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/KvPradeepthi/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0372-super-pow](https://github.com/KvPradeepthi/LeetCode/tree/master/0372-super-pow) |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KvPradeepthi/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
