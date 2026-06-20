@@ -160,6 +160,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0001-two-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/KvPradeepthi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -322,4 +323,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/KvPradeepthi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
