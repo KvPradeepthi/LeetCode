@@ -91,6 +91,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0020-valid-parentheses](https://github.com/KvPradeepthi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/KvPradeepthi/LeetCode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KvPradeepthi/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -156,6 +157,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0042-trapping-rain-water](https://github.com/KvPradeepthi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2540-minimum-common-value](https://github.com/KvPradeepthi/LeetCode/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
