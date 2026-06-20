@@ -193,6 +193,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0279-perfect-squares](https://github.com/KvPradeepthi/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/KvPradeepthi/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KvPradeepthi/LeetCode/tree/master/0326-power-of-three) |
+| [0365-water-and-jug-problem](https://github.com/KvPradeepthi/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KvPradeepthi/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -211,6 +212,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/KvPradeepthi/LeetCode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/KvPradeepthi/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/KvPradeepthi/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0802-find-eventual-safe-states](https://github.com/KvPradeepthi/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1345-jump-game-iv](https://github.com/KvPradeepthi/LeetCode/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KvPradeepthi/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -288,6 +290,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0094-binary-tree-inorder-traversal](https://github.com/KvPradeepthi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/KvPradeepthi/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/KvPradeepthi/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/KvPradeepthi/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0802-find-eventual-safe-states](https://github.com/KvPradeepthi/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
