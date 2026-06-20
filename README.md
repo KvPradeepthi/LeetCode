@@ -226,6 +226,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KvPradeepthi/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/KvPradeepthi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/KvPradeepthi/LeetCode/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
@@ -329,4 +330,5 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/KvPradeepthi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/KvPradeepthi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
