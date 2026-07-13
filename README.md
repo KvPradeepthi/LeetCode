@@ -256,6 +256,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KvPradeepthi/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/KvPradeepthi/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KvPradeepthi/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Stack
 |  |
