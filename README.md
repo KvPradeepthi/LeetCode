@@ -35,6 +35,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/KvPradeepthi/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/KvPradeepthi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KvPradeepthi/LeetCode/tree/master/1345-jump-game-iv) |
 | [1504-count-submatrices-with-all-ones](https://github.com/KvPradeepthi/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
@@ -136,6 +137,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KvPradeepthi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/KvPradeepthi/LeetCode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KvPradeepthi/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -328,6 +330,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KvPradeepthi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Indexed Tree
