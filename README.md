@@ -100,6 +100,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0091-decode-ways](https://github.com/KvPradeepthi/LeetCode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KvPradeepthi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/KvPradeepthi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/KvPradeepthi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -213,6 +214,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0326-power-of-three](https://github.com/KvPradeepthi/LeetCode/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/KvPradeepthi/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/KvPradeepthi/LeetCode/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/KvPradeepthi/LeetCode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/KvPradeepthi/LeetCode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KvPradeepthi/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KvPradeepthi/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -333,6 +335,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/KvPradeepthi/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/KvPradeepthi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
