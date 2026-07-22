@@ -4,9 +4,9 @@ class Solution:
         s=0
         for i in nums:
             if nums.count(i)>sums:
-                s=count(i)
-                sums=i
-        return sums
+                sums=nums.count(i)
+                s=i
+        return s
             
         return sums
         
