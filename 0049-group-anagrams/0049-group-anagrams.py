@@ -8,6 +8,4 @@ class Solution:
             else:
                 mp[key]=[ch]
         return list(mp.values())
-
-            
         
