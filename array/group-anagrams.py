@@ -1,10 +1,11 @@
-from collections import defaultdict
 class Solution:
-    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        groups = defaultdict(list)
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        mp={}
+        for ch in strs:
+            key="".join(sorted(ch))
+            if key in mp:
+                mp[key].append(ch)
+            else:
+                mp[key]=[ch]
+        return list(mp.values())
         
-        for s in strs:
-            key = "".join(sorted(s))  # sort the string to get the key
-            groups[key].append(s)
-        
-        return list(groups.values())
