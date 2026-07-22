@@ -27,6 +27,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0152-maximum-product-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KvPradeepthi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KvPradeepthi/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/KvPradeepthi/LeetCode/tree/master/0204-count-primes) |
@@ -71,6 +72,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KvPradeepthi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KvPradeepthi/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/KvPradeepthi/LeetCode/tree/master/0372-super-pow) |
@@ -130,6 +132,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0015-3sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KvPradeepthi/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KvPradeepthi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KvPradeepthi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -190,6 +193,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/KvPradeepthi/LeetCode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/KvPradeepthi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/KvPradeepthi/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KvPradeepthi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
@@ -313,6 +317,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KvPradeepthi/LeetCode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/KvPradeepthi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
