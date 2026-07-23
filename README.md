@@ -39,6 +39,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/KvPradeepthi/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/KvPradeepthi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/KvPradeepthi/LeetCode/tree/master/1345-jump-game-iv) |
@@ -76,6 +77,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0190-reverse-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KvPradeepthi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/KvPradeepthi/LeetCode/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0217-contains-duplicate](https://github.com/KvPradeepthi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/KvPradeepthi/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KvPradeepthi/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KvPradeepthi/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -314,6 +317,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -392,9 +396,19 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KvPradeepthi/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KvPradeepthi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
