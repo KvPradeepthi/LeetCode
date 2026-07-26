@@ -37,6 +37,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0503-next-greater-element-ii](https://github.com/KvPradeepthi/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KvPradeepthi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KvPradeepthi/LeetCode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/KvPradeepthi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/KvPradeepthi/LeetCode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/KvPradeepthi/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/KvPradeepthi/LeetCode/tree/master/0739-daily-temperatures) |
@@ -220,6 +221,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KvPradeepthi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/KvPradeepthi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
