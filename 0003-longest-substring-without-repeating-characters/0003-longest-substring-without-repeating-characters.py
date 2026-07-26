@@ -6,17 +6,10 @@ class Solution:
             if ch in seen and seen[ch]>=left:
                 left=seen[ch]+1
             seen[ch]=right
-            window_len=right-left+1
-            if window_len>res:
-                res=window_len
+            window=right-left+1
+            if window>res:
+                res=window
         return res
 
 
-
-
-
-
-
-        
-        
         
