@@ -179,6 +179,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0033-search-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KvPradeepthi/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KvPradeepthi/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KvPradeepthi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KvPradeepthi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -233,6 +234,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0029-divide-two-integers](https://github.com/KvPradeepthi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/KvPradeepthi/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/KvPradeepthi/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KvPradeepthi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/KvPradeepthi/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KvPradeepthi/LeetCode/tree/master/0189-rotate-array) |
