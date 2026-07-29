@@ -1,17 +1,22 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        # Handle negative powers
+
+        if n == 0:
+            return 1
+
         if n < 0:
             x = 1 / x
             n = -n
-        
-        result = 1.0
-        while n > 0:
-            if n % 2 == 1:
-                result *= x
-            x *= x
-            n //= 2
-        
-        return result
 
+        result = 1
+
+        while n > 0:
+
+            if n % 2 == 1:
+                result = result * x
+
+            x = x * x
+            n = n // 2
+
+        return result
         
