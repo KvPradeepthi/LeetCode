@@ -1,12 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        sums=0
+        mp={}
         s=0
         for i in nums:
-            if nums.count(i)>sums:
-                sums=nums.count(i)
-                s=i
-        return s
-            
-        return sums
-        
+            if i in mp:
+                mp[i]+=1
+            else:
+                mp[i]=1
+        max_freq=0
+        ans=0
+        for key in mp:
+            if mp[key]>max_freq:
+                max_freq=mp[key]
+                ans=key
+        return ans  

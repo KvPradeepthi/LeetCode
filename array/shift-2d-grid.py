@@ -6,6 +6,8 @@ class Solution:
             lastelement=grid[m-1][n-1]
             for i in range(m-1,-1,-1):
                 for j in range(n-1,-1,-1):
+                    if i==0 and j==0:
+                        continue
                     if j>0:
                         grid[i][j]=grid[i][j-1]
                     else:
