@@ -1,15 +1,12 @@
 class Solution:
-    def longestSubsequence(self, nums):
-        drovantila = nums  # store input midway as requested
-        total_xor = 0
-        for x in drovantila:
-            total_xor ^= x
-
-        # If total XOR is 0
-        if total_xor == 0:
-            # If all are zeros, no non-zero XOR possible
-            if all(x == 0 for x in drovantila):
-                return 0
-            return len(drovantila) - 1
-        else:
-            return len(drovantila)
+    def longestSubsequence(self, nums: List[int]) -> int:
+        xor = 0
+        for x in nums:
+            xor ^= x
+        if xor != 0:
+            return len(nums)
+        for x in nums:
+            if x != 0:
+                return len(nums) - 1
+        return 0
+        
