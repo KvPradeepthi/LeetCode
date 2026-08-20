@@ -1,11 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        mp={}
+        keys={} 
         for ch in strs:
-            key="".join(sorted(ch))
-            if key in mp:
-                mp[key].append(ch)
+            key=''.join(sorted(ch))
+            if key in keys:
+                keys[key].append(ch)
             else:
-                mp[key]=[ch]
-        return list(mp.values())
+                keys[key]=[ch]
+        return list(keys.values())
+            
         
