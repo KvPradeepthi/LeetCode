@@ -3,7 +3,7 @@ class Solution:
         numset=set(nums)
         count=0
         longest=0
-        for i in nums:
+        for i in numset:
             if i-1 not in numset:
                 cur=i
                 count=1
