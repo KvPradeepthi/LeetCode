@@ -4,7 +4,7 @@ class Solution:
         count=0
         longest=0
         for i in nums:
-            if i-1 not in nums:
+            if i-1 not in numset:
                 cur=i
                 count=1
                 while cur+1 in numset:
