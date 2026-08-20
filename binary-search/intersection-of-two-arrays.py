@@ -1,9 +1,11 @@
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        lst=[]
-        for i in nums1:
-            if i in nums2:
-                lst.append(i)
-        sets=set(lst)
-        return list(sets)
+        n1=set(nums1)
+        n2=set(nums2)
+        n3=[]
+        for i in n1:
+            if i in n2:
+                n3.append(i)
+        return n3
+
         
