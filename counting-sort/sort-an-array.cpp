@@ -15,6 +15,7 @@ public:
                 else
                 {
                     temp.push_back(nums[j]);
+                    j++;
                 }
             } 
         while(i<=mid)
@@ -30,7 +31,6 @@ public:
         for(int k=0;k<temp.size();k++)
         {
             nums[left+k]=temp[k];
-            k++;
         }
     }
     void mergeSort(vector<int> &nums, int left, int right)
@@ -41,7 +41,7 @@ public:
         }
         int mid=left+(right-left)/2;
         mergeSort(nums,left,mid);
-        mergerSort(nums,mid+1,right);
+        mergeSort(nums,mid+1,right);
         merge(nums,left,mid,right);
     }
     vector<int> sortArray(vector<int>& nums) {
